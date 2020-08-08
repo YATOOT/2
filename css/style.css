@@ -38,6 +38,7 @@ table {
 
 th,
 td {
+	text-align: center;
 	padding: 15px;
 	background-color: rgba(255,255,255,0.2);
 	color: #EEFFE6;
