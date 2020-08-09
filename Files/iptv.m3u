@@ -1,0 +1,452 @@
+#EXTM3U
+#EXTINF:-1,Информер "Карло-онлайн"
+http://iptv.karlo-online.dn.ua:8003/play/a002/index.m3u8
+#EXTINF:-1 group-title="Республиканские",Первый Республиканский
+http://iptv.karlo-online.dn.ua:8003/play/a001/index.m3u8
+#EXTINF:-1,Оплот
+http://iptv.karlo-online.dn.ua:8003/play/a006/index.m3u8
+#EXTINF:-1,Юнион
+http://iptv.karlo-online.dn.ua:8003/play/a003/index.m3u8
+#EXTINF:-1,Новороссия ТВ
+http://iptv.karlo-online.dn.ua:8003/play/a007/index.m3u8
+#EXTINF:-1,Оплот 2
+http://iptv.karlo-online.dn.ua:8003/play/a005/index.m3u8
+#EXTINF:-1 group-title="Общероссийские",Первый канал
+http://iptv.karlo-online.dn.ua:8003/play/a008/index.m3u8
+#EXTINF:-1,Первый HD
+http://iptv.karlo-online.dn.ua:8003/play/a009/index.m3u8
+#EXTINF:-1,Пятница
+http://iptv.karlo-online.dn.ua:8003/play/a00a/index.m3u8
+#EXTINF:-1,Рен ТВ
+http://iptv.karlo-online.dn.ua:8003/play/a00b/index.m3u8
+#EXTINF:-1,Россия 24
+http://iptv.karlo-online.dn.ua:8003/play/a00d/index.m3u8
+#EXTINF:-1,Россия 1
+http://iptv.karlo-online.dn.ua:8003/play/a00c/index.m3u8
+#EXTINF:-1,Россия HD
+http://iptv.karlo-online.dn.ua:8003/play/a00e/index.m3u8
+#EXTINF:-1,СТС
+http://iptv.karlo-online.dn.ua:8003/play/a00g/index.m3u8
+#EXTINF:-1,ТВ-3
+http://iptv.karlo-online.dn.ua:8003/play/a00h/index.m3u8
+#EXTINF:-1,ТНТ
+http://iptv.karlo-online.dn.ua:8003/play/a00i/index.m3u8
+#EXTINF:-1,ТНТ HD
+http://iptv.karlo-online.dn.ua:8003/play/a00j/index.m3u8
+#EXTINF:-1,ТНТ4
+http://iptv.karlo-online.dn.ua:8003/play/a00k/index.m3u8
+#EXTINF:-1,Че
+http://iptv.karlo-online.dn.ua:8003/play/a00l/index.m3u8
+#EXTINF:-1,НТВ
+http://iptv.karlo-online.dn.ua:8003/play/a00m/index.m3u8
+#EXTINF:-1,НТВ HD
+http://iptv.karlo-online.dn.ua:8003/play/a00n/index.m3u8
+#EXTINF:-1,Мир
+http://iptv.karlo-online.dn.ua:8003/play/a00o/index.m3u8
+#EXTINF:-1,Мир 24
+http://iptv.karlo-online.dn.ua:8003/play/a00p/index.m3u8
+#EXTINF:-1,Звезда
+http://iptv.karlo-online.dn.ua:8003/play/a00r/index.m3u8
+#EXTINF:-1,Домашний
+http://iptv.karlo-online.dn.ua:8003/play/a02s/index.m3u8
+#EXTINF:-1,Культура
+http://iptv.karlo-online.dn.ua:8003/play/a00f/index.m3u8
+#EXTINF:-1,5 канал
+http://iptv.karlo-online.dn.ua:8003/play/a00t/index.m3u8
+#EXTINF:-1,ТВЦ
+http://iptv.karlo-online.dn.ua:8003/play/a00v/index.m3u8
+#EXTINF:-1,РТР Планета
+http://iptv.karlo-online.dn.ua:8003/play/a00w/index.m3u8
+#EXTINF:-1,Москва 24
+http://iptv.karlo-online.dn.ua:8003/play/a00u/index.m3u8
+#EXTINF:-1,8 канал
+http://iptv.karlo-online.dn.ua:8003/play/a010/index.m3u8
+#EXTINF:-1,Известия
+http://iptv.karlo-online.dn.ua:8003/play/a068/index.m3u8
+#EXTINF:-1,360°
+http://iptv.karlo-online.dn.ua:8003/play/a053/index.m3u8
+#EXTINF:-1,ОТР
+http://iptv.karlo-online.dn.ua:8003/play/a00x/index.m3u8
+#EXTINF:-1,Союз
+http://iptv.karlo-online.dn.ua:8003/play/a014/index.m3u8
+#EXTINF:-1,Спас
+http://iptv.karlo-online.dn.ua:8003/play/a013/index.m3u8
+#EXTINF:-1,Радость моя
+http://iptv.karlo-online.dn.ua:8003/play/a03w/index.m3u8
+#EXTINF:-1,ТРО
+http://iptv.karlo-online.dn.ua:8003/play/a016/index.m3u8
+#EXTINF:-1,РБК
+http://iptv.karlo-online.dn.ua:8003/play/a012/index.m3u8
+#EXTINF:-1,Настоящее время
+http://iptv.karlo-online.dn.ua:8003/play/a06b/index.m3u8
+#EXTINF:-1,Euronews
+http://iptv.karlo-online.dn.ua:8003/play/a05j/index.m3u8
+#EXTINF:-1 group-title="Познавательные",24 Техно
+http://iptv.karlo-online.dn.ua:8003/play/a03f/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://iptv.karlo-online.dn.ua:8003/play/a035/index.m3u8
+#EXTINF:-1,Discovery HD
+http://iptv.karlo-online.dn.ua:8003/play/a036/index.m3u8
+#EXTINF:-1,Discovery Science
+http://iptv.karlo-online.dn.ua:8003/play/a037/index.m3u8
+#EXTINF:-1,Investigation Discovery
+http://iptv.karlo-online.dn.ua:8003/play/a038/index.m3u8
+#EXTINF:-1,Animal Planet
+http://iptv.karlo-online.dn.ua:8003/play/a039/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://iptv.karlo-online.dn.ua:8003/play/a03a/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://iptv.karlo-online.dn.ua:8003/play/a03d/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://iptv.karlo-online.dn.ua:8003/play/a03e/index.m3u8
+#EXTINF:-1,National Geographic
+http://iptv.karlo-online.dn.ua:8003/play/a03b/index.m3u8
+#EXTINF:-1,National Geographic HD
+http://iptv.karlo-online.dn.ua:8003/play/a03c/index.m3u8
+#EXTINF:-1,HD Life
+http://iptv.karlo-online.dn.ua:8003/play/a03s/index.m3u8
+#EXTINF:-1,Моя Планета
+http://iptv.karlo-online.dn.ua:8003/play/a03j/index.m3u8
+#EXTINF:-1,Outdoor Channel
+http://iptv.karlo-online.dn.ua:8003/play/a03u/index.m3u8
+#EXTINF:-1,365 Дней
+http://iptv.karlo-online.dn.ua:8003/play/a03h/index.m3u8
+#EXTINF:-1,CBS Reality
+http://iptv.karlo-online.dn.ua:8003/play/a02x/index.m3u8
+#EXTINF:-1,Морской
+http://iptv.karlo-online.dn.ua:8003/play/a03k/index.m3u8
+#EXTINF:-1,Наука 2.0
+http://iptv.karlo-online.dn.ua:8003/play/a03i/index.m3u8
+#EXTINF:-1,RTG
+http://iptv.karlo-online.dn.ua:8003/play/a057/index.m3u8
+#EXTINF:-1,RTG HD
+http://iptv.karlo-online.dn.ua:8003/play/a058/index.m3u8
+#EXTINF:-1,НТВ Право
+http://iptv.karlo-online.dn.ua:8003/play/a04p/index.m3u8
+#EXTINF:-1,Travel HD
+http://iptv.karlo-online.dn.ua:8003/play/a03r/index.m3u8
+#EXTINF:-1,Кто есть кто
+http://iptv.karlo-online.dn.ua:8003/play/a02h/index.m3u8
+#EXTINF:-1,История
+http://iptv.karlo-online.dn.ua:8003/play/a03t/index.m3u8
+#EXTINF:-1,History HD
+http://iptv.karlo-online.dn.ua:8003/play/a062/index.m3u8
+#EXTINF:-1,Загородная жизнь
+http://iptv.karlo-online.dn.ua:8003/play/a05f/index.m3u8
+#EXTINF:-1,Zooпарк
+http://iptv.karlo-online.dn.ua:8003/play/a05d/index.m3u8
+#EXTINF:-1,Доктор
+http://iptv.karlo-online.dn.ua:8003/play/a03g/index.m3u8
+#EXTINF:-1,Домашние животные
+http://iptv.karlo-online.dn.ua:8003/play/a05c/index.m3u8
+#EXTINF:-1,Океан ТВ
+http://iptv.karlo-online.dn.ua:8003/play/a03l/index.m3u8
+#EXTINF:-1,Первый Образовательный
+http://iptv.karlo-online.dn.ua:8003/play/a03n/index.m3u8
+#EXTINF:-1,Просвещение
+http://iptv.karlo-online.dn.ua:8003/play/a02t/index.m3u8
+#EXTINF:-1,Ностальгия
+http://iptv.karlo-online.dn.ua:8003/play/a011/index.m3u8
+#EXTINF:-1,Viasat Nature
+http://iptv.karlo-online.dn.ua:8003/play/a051/index.m3u8
+#EXTINF:-1,Viasat History
+http://iptv.karlo-online.dn.ua:8003/play/a05y/index.m3u8
+#EXTINF:-1,Viasat Explorer
+http://iptv.karlo-online.dn.ua:8003/play/a063/index.m3u8
+#EXTINF:-1,Усадьба
+http://iptv.karlo-online.dn.ua:8003/play/a03o/index.m3u8
+#EXTINF:-1,Время
+http://iptv.karlo-online.dn.ua:8003/play/a00y/index.m3u8
+#EXTINF:-1,Совершенно секретно
+http://iptv.karlo-online.dn.ua:8003/play/a03m/index.m3u8
+#EXTINF:-1 group-title="Фильмы сериалы",Кино ТВ
+http://iptv.karlo-online.dn.ua:8003/play/a01u/index.m3u8
+#EXTINF:-1,Кинокомедия
+http://iptv.karlo-online.dn.ua:8003/play/a01n/index.m3u8
+#EXTINF:-1,Киномикс
+http://iptv.karlo-online.dn.ua:8003/play/a004/index.m3u8
+#EXTINF:-1,Кинопремьера HD
+http://iptv.karlo-online.dn.ua:8003/play/a01t/index.m3u8
+#EXTINF:-1,Киносвидание
+http://iptv.karlo-online.dn.ua:8003/play/a01w/index.m3u8
+#EXTINF:-1,Киносемья
+http://iptv.karlo-online.dn.ua:8003/play/a01v/index.m3u8
+#EXTINF:-1,Киносерия
+http://iptv.karlo-online.dn.ua:8003/play/a01s/index.m3u8
+#EXTINF:-1,Кинохит
+http://iptv.karlo-online.dn.ua:8003/play/a01x/index.m3u8
+#EXTINF:-1,Еврокино
+http://iptv.karlo-online.dn.ua:8003/play/a027/index.m3u8
+#EXTINF:-1,Дом Кино
+http://iptv.karlo-online.dn.ua:8003/play/a02e/index.m3u8
+#EXTINF:-1,Дом кино Премиум HD
+http://iptv.karlo-online.dn.ua:8003/play/a02f/index.m3u8
+#EXTINF:-1,НСТ
+http://iptv.karlo-online.dn.ua:8003/play/a05x/index.m3u8
+#EXTINF:-1,НТВ-ХИТ
+http://iptv.karlo-online.dn.ua:8003/play/a04r/index.m3u8
+#EXTINF:-1,НТВ Сериал
+http://iptv.karlo-online.dn.ua:8003/play/a04q/index.m3u8
+#EXTINF:-1,Наше любимое кино
+http://iptv.karlo-online.dn.ua:8003/play/a021/index.m3u8
+#EXTINF:-1,Наше новое кино
+http://iptv.karlo-online.dn.ua:8003/play/a020/index.m3u8
+#EXTINF:-1,Мир Сериала
+http://iptv.karlo-online.dn.ua:8003/play/a02k/index.m3u8
+#EXTINF:-1,Супер
+http://iptv.karlo-online.dn.ua:8003/play/a067/index.m3u8
+#EXTINF:-1,Amedia 1
+http://iptv.karlo-online.dn.ua:8003/play/a031/index.m3u8
+#EXTINF:-1,Amedia 2
+http://iptv.karlo-online.dn.ua:8003/play/a032/index.m3u8
+#EXTINF:-1,Amedia Hit
+http://iptv.karlo-online.dn.ua:8003/play/a033/index.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://iptv.karlo-online.dn.ua:8003/play/a030/index.m3u8
+#EXTINF:-1,Индийское кино
+http://iptv.karlo-online.dn.ua:8003/play/a028/index.m3u8
+#EXTINF:-1,Bollywood HD
+http://iptv.karlo-online.dn.ua:8003/play/a02j/index.m3u8
+#EXTINF:-1,Dorama
+http://iptv.karlo-online.dn.ua:8003/play/a04v/index.m3u8
+#EXTINF:-1,Sony Channel
+http://iptv.karlo-online.dn.ua:8003/play/a02o/index.m3u8
+#EXTINF:-1,Sony Sci-Fi
+http://iptv.karlo-online.dn.ua:8003/play/a02p/index.m3u8
+#EXTINF:-1,Sony Turbo
+http://iptv.karlo-online.dn.ua:8003/play/a02q/index.m3u8
+#EXTINF:-1,Paramount Channel
+http://iptv.karlo-online.dn.ua:8003/play/a02b/index.m3u8
+#EXTINF:-1,Paramount Comedy
+http://iptv.karlo-online.dn.ua:8003/play/a02c/index.m3u8
+#EXTINF:-1,TLC
+http://iptv.karlo-online.dn.ua:8003/play/a03p/index.m3u8
+#EXTINF:-1,TLC HD
+http://iptv.karlo-online.dn.ua:8003/play/a03q/index.m3u8
+#EXTINF:-1,TVXXI
+http://iptv.karlo-online.dn.ua:8003/play/a029/index.m3u8
+#EXTINF:-1,TV1000
+http://iptv.karlo-online.dn.ua:8003/play/a023/index.m3u8
+#EXTINF:-1,TV1000 Action
+http://iptv.karlo-online.dn.ua:8003/play/a024/index.m3u8
+#EXTINF:-1,TV1000 World Kino
+http://iptv.karlo-online.dn.ua:8003/play/a01c/index.m3u8
+#EXTINF:-1,TV1000 Русское кино
+http://iptv.karlo-online.dn.ua:8003/play/a025/index.m3u8
+#EXTINF:-1,VIP Comedy HD
+http://iptv.karlo-online.dn.ua:8003/play/a059/index.m3u8
+#EXTINF:-1,VIP Megahit HD
+http://iptv.karlo-online.dn.ua:8003/play/a05m/index.m3u8
+#EXTINF:-1,VIP Premiere HD
+http://iptv.karlo-online.dn.ua:8003/play/a05o/index.m3u8
+#EXTINF:-1,Родное кино
+http://iptv.karlo-online.dn.ua:8003/play/a01z/index.m3u8
+#EXTINF:-1,Русская комедия
+http://iptv.karlo-online.dn.ua:8003/play/a026/index.m3u8
+#EXTINF:-1,Русский бестселлер
+http://iptv.karlo-online.dn.ua:8003/play/a02n/index.m3u8
+#EXTINF:-1,Русский детектив
+http://iptv.karlo-online.dn.ua:8003/play/a02m/index.m3u8
+#EXTINF:-1,Русский иллюзион
+http://iptv.karlo-online.dn.ua:8003/play/a02g/index.m3u8
+#EXTINF:-1,Русский роман
+http://iptv.karlo-online.dn.ua:8003/play/a02l/index.m3u8
+#EXTINF:-1,Продвижение
+http://iptv.karlo-online.dn.ua:8003/play/a01y/index.m3u8
+#EXTINF:-1,Fox
+http://iptv.karlo-online.dn.ua:8003/play/a02y/index.m3u8
+#EXTINF:-1,Fox HD
+http://iptv.karlo-online.dn.ua:8003/play/a00q/index.m3u8
+#EXTINF:-1,Fox Life
+http://iptv.karlo-online.dn.ua:8003/play/a02z/index.m3u8
+#EXTINF:-1,Hollywood
+http://iptv.karlo-online.dn.ua:8003/play/a02i/index.m3u8
+#EXTINF:-1,Hollywood HD
+http://iptv.karlo-online.dn.ua:8003/play/a02a/index.m3u8
+#EXTINF:-1,Spike
+http://iptv.karlo-online.dn.ua:8003/play/a02r/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Арена
+http://iptv.karlo-online.dn.ua:8003/play/a019/index.m3u8
+#EXTINF:-1,Матч! Арена HD
+http://iptv.karlo-online.dn.ua:8003/play/a01k/index.m3u8
+#EXTINF:-1,Матч! Премьер
+http://iptv.karlo-online.dn.ua:8003/play/a061/index.m3u8
+#EXTINF:-1,Матч! Премьер HD
+http://iptv.karlo-online.dn.ua:8003/play/a060/index.m3u8
+#EXTINF:-1,Матч! Игра HD
+http://iptv.karlo-online.dn.ua:8003/play/a01j/index.m3u8
+#EXTINF:-1,Матч! Страна
+http://iptv.karlo-online.dn.ua:8003/play/a01m/index.m3u8
+#EXTINF:-1,Матч!
+http://iptv.karlo-online.dn.ua:8003/play/a017/index.m3u8
+#EXTINF:-1,Матч! HD
+http://iptv.karlo-online.dn.ua:8003/play/a018/index.m3u8
+#EXTINF:-1,Матч! Футбол 1
+http://iptv.karlo-online.dn.ua:8003/play/a01d/index.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD
+http://iptv.karlo-online.dn.ua:8003/play/a01e/index.m3u8
+#EXTINF:-1,Матч! Футбол 2
+http://iptv.karlo-online.dn.ua:8003/play/a01f/index.m3u8
+#EXTINF:-1,Матч! Футбол 2 HD
+http://iptv.karlo-online.dn.ua:8003/play/a01g/index.m3u8
+#EXTINF:-1,Матч! Футбол 3
+http://iptv.karlo-online.dn.ua:8003/play/a034/index.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD
+http://iptv.karlo-online.dn.ua:8003/play/a01h/index.m3u8
+#EXTINF:-1,Футбол
+http://iptv.karlo-online.dn.ua:8003/play/a01a/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://iptv.karlo-online.dn.ua:8003/play/a01o/index.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://iptv.karlo-online.dn.ua:8003/play/a01p/index.m3u8
+#EXTINF:-1,Extreme Sports
+http://iptv.karlo-online.dn.ua:8003/play/a01q/index.m3u8
+#EXTINF:-1,Точка отрыва
+http://iptv.karlo-online.dn.ua:8003/play/a05w/index.m3u8
+#EXTINF:-1,КХЛ HD
+http://iptv.karlo-online.dn.ua:8003/play/a01i/index.m3u8
+#EXTINF:-1,Конный Мир HD
+http://iptv.karlo-online.dn.ua:8003/play/a05g/index.m3u8
+#EXTINF:-1,FightBox HD
+http://iptv.karlo-online.dn.ua:8003/play/a01r/index.m3u8
+#EXTINF:-1,Бокс ТВ
+http://iptv.karlo-online.dn.ua:8003/play/a01l/index.m3u8
+#EXTINF:-1,Viasat Sport
+http://iptv.karlo-online.dn.ua:8003/play/a05v/index.m3u8
+#EXTINF:-1,Viasat Sport HD
+http://iptv.karlo-online.dn.ua:8003/play/a05z/index.m3u8
+#EXTINF:-1 group-title="Детские",Малыш
+http://iptv.karlo-online.dn.ua:8003/play/a02w/index.m3u8
+#EXTINF:-1,Мама
+http://iptv.karlo-online.dn.ua:8003/play/a03v/index.m3u8
+#EXTINF:-1,Тлум HD
+http://iptv.karlo-online.dn.ua:8003/play/a03y/index.m3u8
+#EXTINF:-1,Nick Jr
+http://iptv.karlo-online.dn.ua:8003/play/a046/index.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://iptv.karlo-online.dn.ua:8003/play/a045/index.m3u8
+#EXTINF:-1,Карусель
+http://iptv.karlo-online.dn.ua:8003/play/a041/index.m3u8
+#EXTINF:-1,Мульт
+http://iptv.karlo-online.dn.ua:8003/play/a03z/index.m3u8
+#EXTINF:-1,Мульт и Музыка
+http://iptv.karlo-online.dn.ua:8003/play/a055/index.m3u8
+#EXTINF:-1,Мультимания
+http://iptv.karlo-online.dn.ua:8003/play/a040/index.m3u8
+#EXTINF:-1,JimJam
+http://iptv.karlo-online.dn.ua:8003/play/a047/index.m3u8
+#EXTINF:-1,Ani
+http://iptv.karlo-online.dn.ua:8003/play/a04a/index.m3u8
+#EXTINF:-1,Tiji
+http://iptv.karlo-online.dn.ua:8003/play/a04b/index.m3u8
+#EXTINF:-1,Детский
+http://iptv.karlo-online.dn.ua:8003/play/a043/index.m3u8
+#EXTINF:-1,Детский Мир
+http://iptv.karlo-online.dn.ua:8003/play/a03x/index.m3u8
+#EXTINF:-1,Disney
+http://iptv.karlo-online.dn.ua:8003/play/a042/index.m3u8
+#EXTINF:-1,В гостях у сказки
+http://iptv.karlo-online.dn.ua:8003/play/a044/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://iptv.karlo-online.dn.ua:8003/play/a049/index.m3u8
+#EXTINF:-1,Da Vinci
+http://iptv.karlo-online.dn.ua:8003/play/a04y/index.m3u8
+#EXTINF:-1,Gulli
+http://iptv.karlo-online.dn.ua:8003/play/a048/index.m3u8
+#EXTINF:-1,Boomerang
+http://iptv.karlo-online.dn.ua:8003/play/a065/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Муз ТВ
+http://iptv.karlo-online.dn.ua:8003/play/a04t/index.m3u8
+#EXTINF:-1,Музыка Первого
+http://iptv.karlo-online.dn.ua:8003/play/a04u/index.m3u8
+#EXTINF:-1,ТНТ Music
+http://iptv.karlo-online.dn.ua:8003/play/a04n/index.m3u8
+#EXTINF:-1,1HD
+http://iptv.karlo-online.dn.ua:8003/play/a04i/index.m3u8
+#EXTINF:-1,Ля минор
+http://iptv.karlo-online.dn.ua:8003/play/a04s/index.m3u8
+#EXTINF:-1,Наше ТВ
+http://iptv.karlo-online.dn.ua:8003/play/a022/index.m3u8
+#EXTINF:-1,RU TV
+http://iptv.karlo-online.dn.ua:8003/play/a04l/index.m3u8
+#EXTINF:-1,VH1 Classic
+http://iptv.karlo-online.dn.ua:8003/play/a04z/index.m3u8
+#EXTINF:-1,VH1 European
+http://iptv.karlo-online.dn.ua:8003/play/a050/index.m3u8
+#EXTINF:-1,MCM Top
+http://iptv.karlo-online.dn.ua:8003/play/a04j/index.m3u8
+#EXTINF:-1,MTV Dance
+http://iptv.karlo-online.dn.ua:8003/play/a04c/index.m3u8
+#EXTINF:-1,MTV
+http://iptv.karlo-online.dn.ua:8003/play/a04d/index.m3u8
+#EXTINF:-1,MTV Hits
+http://iptv.karlo-online.dn.ua:8003/play/a04e/index.m3u8
+#EXTINF:-1,MTV Live HD
+http://iptv.karlo-online.dn.ua:8003/play/a04f/index.m3u8
+#EXTINF:-1,MTV Rocks
+http://iptv.karlo-online.dn.ua:8003/play/a04g/index.m3u8
+#EXTINF:-1,Mezzo Live HD
+http://iptv.karlo-online.dn.ua:8003/play/a04k/index.m3u8
+#EXTINF:-1,Music Box
+http://iptv.karlo-online.dn.ua:8003/play/a01b/index.m3u8
+#EXTINF:-1,Шансон ТВ
+http://iptv.karlo-online.dn.ua:8003/play/a04o/index.m3u8
+#EXTINF:-1,Bridge TV
+http://iptv.karlo-online.dn.ua:8003/play/a04h/index.m3u8
+#EXTINF:-1,Bridge TV Dance
+http://iptv.karlo-online.dn.ua:8003/play/a05u/index.m3u8
+#EXTINF:-1,Bridge TV Русский хит
+http://iptv.karlo-online.dn.ua:8003/play/a04m/index.m3u8
+#EXTINF:-1,Европа Плюс ТВ
+http://iptv.karlo-online.dn.ua:8003/play/a04w/index.m3u8
+#EXTINF:-1,Жара
+http://iptv.karlo-online.dn.ua:8003/play/a04x/index.m3u8
+#EXTINF:-1  group-title="Развлекательные",Сарафан ТВ
+http://iptv.karlo-online.dn.ua:8003/play/a00z/index.m3u8
+#EXTINF:-1,КВН ТВ
+http://iptv.karlo-online.dn.ua:8003/play/a052/index.m3u8
+#EXTINF:-1,Юмор ТВ
+http://iptv.karlo-online.dn.ua:8003/play/a056/index.m3u8
+#EXTINF:-1,TRICK
+http://iptv.karlo-online.dn.ua:8003/play/a069/index.m3u8
+#EXTINF:-1,2*2
+http://iptv.karlo-online.dn.ua:8003/play/a00s/index.m3u8
+#EXTINF:-1,Game Show
+http://iptv.karlo-online.dn.ua:8003/play/a05n/index.m3u8
+#EXTINF:-1,Кухня ТВ
+http://iptv.karlo-online.dn.ua:8003/play/a05h/index.m3u8
+#EXTINF:-1,1 Вегетарианский
+http://iptv.karlo-online.dn.ua:8003/play/a066/index.m3u8
+#EXTINF:-1,Телекафе
+http://iptv.karlo-online.dn.ua:8003/play/a02v/index.m3u8
+#EXTINF:-1,Food Network
+http://iptv.karlo-online.dn.ua:8003/play/a05l/index.m3u8
+#EXTINF:-1,Ю
+http://iptv.karlo-online.dn.ua:8003/play/a015/index.m3u8
+#EXTINF:-1,СТС Love
+http://iptv.karlo-online.dn.ua:8003/play/a02u/index.m3u8
+#EXTINF:-1,ЖиВи
+http://iptv.karlo-online.dn.ua:8003/play/a05e/index.m3u8
+#EXTINF:-1,НТВ Стиль
+http://iptv.karlo-online.dn.ua:8003/play/a054/index.m3u8
+#EXTINF:-1,World Fashion
+http://iptv.karlo-online.dn.ua:8003/play/a05b/index.m3u8
+#EXTINF:-1,Fashion TV
+http://iptv.karlo-online.dn.ua:8003/play/a05k/index.m3u8
+#EXTINF:-1,Shopping Live
+http://iptv.karlo-online.dn.ua:8003/play/a05a/index.m3u8
+#EXTINF:-1,Ювелирочка
+http://iptv.karlo-online.dn.ua:8003/play/a064/index.m3u8
+#EXTINF:-1 group-title="Мужские",SHOT TV
+http://iptv.karlo-online.dn.ua:8003/play/a05t/index.m3u8
+#EXTINF:-1,Мужское кино
+http://iptv.karlo-online.dn.ua:8003/play/a02d/index.m3u8
+#EXTINF:-1,Мужской
+http://iptv.karlo-online.dn.ua:8003/play/a05s/index.m3u8
+#EXTINF:-1,Авто24
+http://iptv.karlo-online.dn.ua:8003/play/a05p/index.m3u8
+#EXTINF:-1,Авто Плюс
+http://iptv.karlo-online.dn.ua:8003/play/a05q/index.m3u8
+#EXTINF:-1,Бобер
+http://iptv.karlo-online.dn.ua:8003/play/a05r/index.m3u8
+
